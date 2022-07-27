@@ -73,7 +73,7 @@ python train.py -g 0
 ## Visual comparisons
 - Place2
 <div align=center>
-<img src="imgs/PLACE2_image.jpg" alt="PLACE2_image.jpg" title="PLACE2_image.jpg" width="993" height="500">
+<img src="imgs/palce2_image.jpg" alt="palce2_image.jpg" title="palce2_image.jpg" width="993" height="500">
 </div>
 
 - CelebA
