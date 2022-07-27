@@ -78,7 +78,7 @@ python train.py -g 0
 
 - CelebA
 <div align=center>
-<img src="imgs/CelebA_image.jpg" alt="CelebA_image.jpg" title="CelebA_image.jpg"  width="829" height="438">
+<img src="imgs/CelebA_image.jpg" alt="CelebA_image.jpg" title="CelebA_image.jpg"   width="600" style="zoom:100%;">
 </div>
 
 ## Difference from original paper
