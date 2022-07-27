@@ -51,8 +51,9 @@ python train.py -g 0
 
 ## Result
 - Place2
+<div align=center>
 <img src="imgs/PLACE.jpg" alt="PLACE.jpg" title="PLACE.jpg" width="780" height="661">
-
+</div>
 
 - CelebA
 
