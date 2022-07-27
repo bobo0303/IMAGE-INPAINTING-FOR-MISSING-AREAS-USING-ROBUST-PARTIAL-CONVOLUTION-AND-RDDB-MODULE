@@ -53,33 +53,23 @@ python train.py -g 0
 
 - Place2
 
-<div align=center>
 <img src="imgs/PLACE.jpg" alt="PLACE.jpg" title="PLACE.jpg" width="780" height="661">
-</div>
 
 
 - CelebA 
 
-<div align=center>
 <img src="imgs/CELEBA.jpg" alt="CELEBA.jpg" title="CELEBA.jpg" width="780" height="661">
-</div>
 
 - COMPLEXITY COMPARISON
 
-<div align=center>
 <img src="imgs/complexity comparison.jpg" alt="complexity comparison.jpg" title="complexity comparison.jpg" width="861" height="131">
-</div>
 
 ## Visual comparisons
 - Place2
-<div align=center>
 <img src="imgs/palce2_image.jpg" alt="palce2_image.jpg" title="palce2_image.jpg"width="600" style="zoom:100%;">
-</div>
 
 - CelebA
-<div align=center>
 <img src="imgs/CelebA_image.jpg" alt="CelebA_image.jpg" title="CelebA_image.jpg"   width="600" style="zoom:100%;">
-</div>
 
 ## Difference from original paper
 Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
