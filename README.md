@@ -11,10 +11,12 @@ Reproduction of Nvidia image inpainting paper "Image Inpainting for Irregular Ho
 <img src="imgs/iter_100000.jpg" alt="iter_100000.jpg" title="iter_100000.jpg" width="768" height="512">
 
 # Environment
-- python3.5.3  
-- chainer4.0alpha    
+- Python 3.7.11
+- chainer  6.7.0   
 - opencv (only for cv.imread, you can replace it with PIL)  
 - PIL  
+
+or see the requirements.txt
 
 # How to try
 
@@ -46,6 +48,18 @@ Note that original paper uses 512x512 image and generate mask with different way
 python train.py -g 0 
 ```
 -g represents gpu option.(utilize gpu of No.0) 
+
+## Result
+- Place2
+
+
+- CelebA
+
+- COMPLEXITY COMPARISON
+
+## Visual comparisons
+- xx
+
 
 ## Difference from original paper
 Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
