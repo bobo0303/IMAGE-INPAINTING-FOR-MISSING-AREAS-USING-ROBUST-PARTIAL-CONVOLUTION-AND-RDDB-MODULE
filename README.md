@@ -56,8 +56,14 @@ python train.py -g 0
 </div>
 
 - CelebA
+<div align=center>
+<img src="imgs/CELEBA.jpg" alt="CELEBA.jpg" title="CELEBA.jpg" width="780" height="661">
+</div>
 
 - COMPLEXITY COMPARISON
+<div align=center>
+<img src="imgs/TIME.jpg" alt="TIME.jpg" title="TIME.jpg" width="855" height="123">
+</div>
 
 ## Visual comparisons
 - xx
