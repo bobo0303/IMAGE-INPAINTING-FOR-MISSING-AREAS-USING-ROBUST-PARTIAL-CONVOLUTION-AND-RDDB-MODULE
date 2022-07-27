@@ -73,12 +73,12 @@ python train.py -g 0
 ## Visual comparisons
 - Place2
 <div align=center>
-<img src="imgs/palce2_image.jpg" alt="palce2_image.jpg" title="palce2_image.jpg" width="993" height="500">
+<img src="imgs/palce2_image.jpg" alt="palce2_image.jpg" title="palce2_image.jpg" width="829" height="438">
 </div>
 
 - CelebA
 <div align=center>
-<img src="imgs/celebaimage.jpg" alt="celeba_iage.jpg" title="celea_image.jpg"  width="993" height="500">
+<img src="imgs/CelebA_image.jpg" alt="CelebA_image.jpg" title="CelebA_image.jpg"  width="829" height="438">
 </div>
 
 ## Difference from original paper
