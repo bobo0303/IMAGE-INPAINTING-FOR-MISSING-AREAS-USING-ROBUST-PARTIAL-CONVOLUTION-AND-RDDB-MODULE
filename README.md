@@ -53,12 +53,12 @@ python train.py -g 0
 
 - Place2
 
-<img src="imgs/PLACE.jpg" alt="PLACE.jpg" title="PLACE.jpg" width="780" height="661">
+<img src="imgs/Place2_PSNR_SSIM.jpg" alt="Place2_PSNR_SSIM.jpg" title="Place2_PSNR_SSIM.jpg" width="700" height="600">
 
 
 - CelebA 
 
-<img src="imgs/CELEBA.jpg" alt="CELEBA.jpg" title="CELEBA.jpg" width="780" height="661">
+<img src="imgs/CelebA_PSNR_SSIM.jpg" alt="CelebA_PSNR_SSIM.jpg" title="CelebA_PSNR_SSIM.jpg" width="700" height="600">
 
 - COMPLEXITY COMPARISON
 
