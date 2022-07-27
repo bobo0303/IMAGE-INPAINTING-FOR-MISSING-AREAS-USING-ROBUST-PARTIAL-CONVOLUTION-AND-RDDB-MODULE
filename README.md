@@ -67,7 +67,7 @@ python train.py -g 0
 - COMPLEXITY COMPARISON
 
 <div align=center>
-<img src="imgs/TIME.jpg" alt="TIME.jpg" title="TIME.jpg" width="855" height="123">
+<img src="imgs/complexity comparison.jpg" alt="complexity comparison.jpg" title="complexity comparison.jpg" width="855" height="123">
 </div>
 
 ## Visual comparisons
