@@ -67,13 +67,13 @@ python train.py -g 0
 - COMPLEXITY COMPARISON
 
 <div align=center>
-<img src="imgs/complexity comparison.jpg" alt="complexity comparison.jpg" title="complexity comparison.jpg" width="855" height="123">
+<img src="imgs/complexity comparison.jpg" alt="complexity comparison.jpg" title="complexity comparison.jpg" width="800" height="62">
 </div>
 
 ## Visual comparisons
 - Place2
 <div align=center>
-<img src="imgs/palce2_image.jpg" alt="palce2_image.jpg" title="palce2_image.jpg" width="829" height="438">
+<img src="imgs/palce2_image.jpg" alt="palce2_image.jpg" title="palce2_image.jpg" width="800" height="60">
 </div>
 
 - CelebA
