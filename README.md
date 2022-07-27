@@ -71,8 +71,15 @@ python train.py -g 0
 </div>
 
 ## Visual comparisons
-- xx
+- Place2
+<div align=center>
+<img src="imgs/PLACE2_image.jpg" alt="PLACE2_image.jpg" title="PLACE2_image.jpg" width="780" height="661">
+</div>
 
+- CelebA
+<div align=center>
+<img src="imgs/celeba_image.jpg" alt="celeba_image.jpg" title="celeba_image.jpg" width="780" height="661">
+</div>
 
 ## Difference from original paper
 Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
