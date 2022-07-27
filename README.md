@@ -50,17 +50,22 @@ python train.py -g 0
 -g represents gpu option.(utilize gpu of No.0) 
 
 ## Result
+
 - Place2
+
 <div align=center>
 <img src="imgs/PLACE.jpg" alt="PLACE.jpg" title="PLACE.jpg" width="780" height="661">
 </div>
 
-- CelebA
+
+- CelebA 
+
 <div align=center>
 <img src="imgs/CELEBA.jpg" alt="CELEBA.jpg" title="CELEBA.jpg" width="780" height="661">
 </div>
 
 - COMPLEXITY COMPARISON
+
 <div align=center>
 <img src="imgs/TIME.jpg" alt="TIME.jpg" title="TIME.jpg" width="855" height="123">
 </div>
