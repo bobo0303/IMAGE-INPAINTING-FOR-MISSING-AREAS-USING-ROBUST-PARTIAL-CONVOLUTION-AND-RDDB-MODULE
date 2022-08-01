@@ -63,7 +63,7 @@ python train.py -g 0
 
 <img src="https://imgur.com/hjZB4k7.jpg" width="861" height="131">
 
-All training and testing base on same Hardware(2080Ti)
+All training and testing base on same 2080 Ti.
 
 ## Visual comparisons
 - Place2
