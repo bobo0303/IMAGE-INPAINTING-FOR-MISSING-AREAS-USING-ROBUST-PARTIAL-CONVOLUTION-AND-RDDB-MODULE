@@ -24,7 +24,6 @@ or see the requirements.txt
 [Place2](http://places2.csail.mit.edu/)  
 [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
 
-https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 ## Set dataset path
 
 Edit common/paths.py
