@@ -3,7 +3,7 @@ Reproduction of Nvidia image inpainting paper "Image Inpainting for Irregular Ho
 
 1,000 iteration results  (completion, output, mask) "completion" represents the input images whose masked pixels are replaced with the corresonded pixels of the output images
 
-![image](https://imgur.com/ZxKVCUZ.jpg)<width="768" height="512">
+![image](https://imgur.com/ZxKVCUZ.jpg | width="768" height="512")
 
 10,000 iteration results  (completion, output, mask)  
 ![image](https://imgur.com/KxYDgF3 width="768" height="512")
