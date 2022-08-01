@@ -5,10 +5,10 @@ Reproduction of Nvidia image inpainting paper "Image Inpainting for Irregular Ho
 ![image](https://imgur.com/ZxKVCUZ width="768" height="512")
 
 10,000 iteration results  (completion, output, mask)  
-<img src="imgs/iter_10000.jpg" alt="iter_10000.jpg" title="iter_10000.jpg" width="768" height="512">
+![image](https://imgur.com/KxYDgF3 width="768" height="512")
 
 100,000 iteration results  (completion, output, mask)  
-<img src="imgs/iter_100000.jpg" alt="iter_100000.jpg" title="iter_100000.jpg" width="768" height="512">
+![image](https://imgur.com/7pQiyAx width="768" height="512")
 
 # Environment
 - Python 3.7.11
@@ -53,25 +53,24 @@ python train.py -g 0
 
 - Place2
 
-<img src="imgs/Place2_PSNR_SSIM.jpg" alt="Place2_PSNR_SSIM.jpg" title="Place2_PSNR_SSIM.jpg" width="700" height="600">
-
+![image](https://imgur.com/RByrUWI width="700" height="600")
 
 - CelebA 
 
-<img src="imgs/CelebA_PSNR_SSIM.jpg" alt="CelebA_PSNR_SSIM.jpg" title="CelebA_PSNR_SSIM.jpg" width="700" height="600">
+![image](https://imgur.com/M94y0cp width="700" height="600")
 
 - COMPLEXITY COMPARISON
 
-<img src="imgs/complexity comparison.jpg" alt="complexity comparison.jpg" title="complexity comparison.jpg" width="861" height="131">
+![image](https://imgur.com/hjZB4k7 width="861" height="131")
 
 ## Visual comparisons
 - Place2
-<img src="imgs/palce2_image.jpg" alt="palce2_image.jpg" title="palce2_image.jpg" width="600" style="zoom:100%;">
+
+![image](https://imgur.com/ysnqyN1 width="600" style="zoom:100%;")
 
 - CelebA
 
-<img src="imgs/CelebA_image.jpg" alt="CelebA_image.jpg" title="CelebA_image.jpg"   width="600" style="zoom:100%;">
-
+![image](https://imgur.com/JF8mzU0 width="600" style="zoom:100%;")
 
 ## Difference from original paper
 Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
