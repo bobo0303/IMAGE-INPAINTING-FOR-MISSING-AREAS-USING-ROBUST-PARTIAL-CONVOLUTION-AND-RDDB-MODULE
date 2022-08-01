@@ -2,7 +2,7 @@
 Reproduction of Nvidia image inpainting paper "Image Inpainting for Irregular Holes Using Partial Convolutions" https://arxiv.org/abs/1804.07723
 
 1,000 iteration results  (completion, output, mask) "completion" represents the input images whose masked pixels are replaced with the corresonded pixels of the output images 
-<img src="imgs/iter_1000.jpg" alt="iter_1000.jpg" title="iter_1000.jpg" width="768" height="512">
+![image](https://imgur.com/ZxKVCUZ width="768" height="512")
 
 10,000 iteration results  (completion, output, mask)  
 <img src="imgs/iter_10000.jpg" alt="iter_10000.jpg" title="iter_10000.jpg" width="768" height="512">
