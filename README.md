@@ -69,7 +69,9 @@ python train.py -g 0
 <img src="imgs/palce2_image.jpg" alt="palce2_image.jpg" title="palce2_image.jpg" width="600" style="zoom:100%;">
 
 - CelebA
+
 <img src="imgs/CelebA_image.jpg" alt="CelebA_image.jpg" title="CelebA_image.jpg"   width="600" style="zoom:100%;">
+
 
 ## Difference from original paper
 Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
