@@ -20,9 +20,11 @@ or see the requirements.txt
 
 # How to try
 
-## Download dataset (place2)
+## Download dataset (place2、CelebA)
 [Place2](http://places2.csail.mit.edu/)  
+[CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
 
+https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 ## Set dataset path
 
 Edit common/paths.py
