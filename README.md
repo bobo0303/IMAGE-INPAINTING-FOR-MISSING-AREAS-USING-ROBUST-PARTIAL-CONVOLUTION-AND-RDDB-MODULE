@@ -89,6 +89,7 @@ other differences:
 ## Acknowledgement
 This repository utilizes the codes of following impressive repositories   
 - [chainer-cyclegan](https://github.com/Aixile/chainer-cyclegan)  
+- [partialconv](https://github.com/NVIDIA/partialconv)
 
 ---
 ## Contact
