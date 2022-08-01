@@ -90,6 +90,7 @@ other differences:
 This repository utilizes the codes of following impressive repositories   
 - [chainer-cyclegan](https://github.com/Aixile/chainer-cyclegan)  
 - [partialconv](https://github.com/NVIDIA/partialconv)
+- [chainer-partial_convolution_image_inpainting](https://github.com/SeitaroShinagawa/chainer-partial_convolution_image_inpainting)
 
 ---
 ## Contact
