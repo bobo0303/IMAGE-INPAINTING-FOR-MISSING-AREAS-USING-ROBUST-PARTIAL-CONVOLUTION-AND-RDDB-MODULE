@@ -53,24 +53,24 @@ python train.py -g 0
 
 - Place2
 
-![image](https://imgur.com/RByrUWI width="700" height="600")
+<img src="https://imgur.com/RByrUWI.jpg" width="700" height="600">
 
 - CelebA 
 
-![image](https://imgur.com/M94y0cp width="700" height="600")
+<img src="https://imgur.com/M94y0cp.jpg" width="700" height="600">
 
 - COMPLEXITY COMPARISON
 
-![image](https://imgur.com/hjZB4k7 width="861" height="131")
+<img src="https://imgur.com/hjZB4k7.jpg" width="861" height="131">
 
 ## Visual comparisons
 - Place2
 
-![image](https://imgur.com/ysnqyN1 width="600" style="zoom:100%;")
+<img src="https://imgur.com/ysnqyN1.jpg" width="600" style="zoom:100%;">
 
 - CelebA
 
-![image](https://imgur.com/JF8mzU0 width="600" style="zoom:100%;")
+<img src="https://imgur.com/JF8mzU0.jpg" width="600" style="zoom:100%;">
 
 ## Difference from original paper
 Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
