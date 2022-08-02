@@ -54,11 +54,11 @@ python train.py -g 0
 
 - Place2
 
-<img src="https://imgur.com/RByrUWI.jpg" width="700" height="600">
+<img src="https://imgur.com/P2XHsSA.jpg" width="700" height="600">
 
 - CelebA 
 
-<img src="https://i.imgur.com/lT2sAte.jpg" width="700" height="600">
+<img src="https://imgur.com/ARzFFZv.jpg" width="700" height="600">
 
 - COMPLEXITY COMPARISON
 
