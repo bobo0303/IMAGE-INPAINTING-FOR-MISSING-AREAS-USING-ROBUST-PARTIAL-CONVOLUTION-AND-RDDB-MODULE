@@ -58,7 +58,7 @@ python train.py -g 0
 
 - CelebA 
 
-<img src="https://imgur.com/lT2sAte" width="700" height="600">
+<img src="https://imgur.com/a/kuKkPYA" width="700" height="600">
 
 - COMPLEXITY COMPARISON
 
