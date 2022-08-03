@@ -16,7 +16,7 @@ def clip(a):
 
 
 def array_to_img(im):
-    # im = im*255                  #可以看的到黑跟白
+    # im = im*255                 
     im = np.vectorize(clip)(im).astype(np.uint8)
     img = Image.fromarray(im)
     return img
@@ -41,13 +41,13 @@ def random_walk(canvas, ini_x, ini_y, length):
     y = ini_y
     img_size = canvas.shape[-1]
     #print(canvas)
-    for i in range(3000): #調整比例 range(length*n) n自己設定 原始約為0.2
+    for i in range(3000): 
         r = random.randint( 0, len(action_list) - 1)
         x += action_list[r][0]
         y += action_list[r][1]
         x = pos_clip(x, img_size)
         y = pos_clip(y, img_size)
-        canvas[x, y] = 0  # mask黑白對調(0改成1)
+        canvas[x, y] = 0  
     return canvas
 
 
@@ -78,7 +78,7 @@ if __name__ == '__main__':
     # image_size = int(image_size)
 
     for i in range(int(generate_num1)):
-        canvas = np.ones((image_size, image_size)).astype("i")  # mask黑白對調(one改成zero)
+        canvas = np.ones((image_size, image_size)).astype("i")  
         ini_x = random.randint(0, image_size - 1)
         ini_y = random.randint(0, image_size - 1)
         mask = random_walk(canvas, ini_x, ini_y, int(image_size ** 2))
