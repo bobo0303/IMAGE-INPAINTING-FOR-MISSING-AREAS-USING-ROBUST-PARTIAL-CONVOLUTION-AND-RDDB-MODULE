@@ -7,7 +7,7 @@ from chainer import cuda, serializers
 from chainer.training import extension
 from chainer.training import extensions
 import sys
-import common.net as net  # net_pre_trained為舊版為了讀取權重
+import common.net as net 
 import datasets
 from updater import *
 from evaluation import *
@@ -68,7 +68,7 @@ def main():
     val_dataset = getattr(datasets, args.load_dataset)(paths.val_place2,
                                                        mask_path="mask/256")
 
-    for iii in range(5203):     #(valid總照片/8)
+    for iii in range(5203):    
         val_iter = chainer.iterators.SerialIterator(
             val_dataset, args.batch_size)
 
