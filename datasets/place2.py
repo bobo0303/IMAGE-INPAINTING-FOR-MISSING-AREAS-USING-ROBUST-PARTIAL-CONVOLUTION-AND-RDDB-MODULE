@@ -20,7 +20,7 @@ class place2_train(datasets_base):
         self.dataset_path = dataset_path
         self.trainAkey = glob.glob(dataset_path + "/*.jpg")  # data_path = "yourpath/place2/data_256"
         self.maskkey = glob.glob(mask_path + "/*.bmp")  #mask_path = "mask/128"
-        #self.imgindex = np.arange(0, 1000)#總照片
+        #self.imgindex = np.arange(0, 1000)
         self.count = 0
 
 
@@ -104,7 +104,7 @@ class place2_train(datasets_base):
 
 
         
-        #idM = self.maskkey[np.random.randint(0,len(self.maskkey))]                #[:len(self.trainAkey)]會造成讀取mask路徑錯誤
+        #idM = self.maskkey[np.random.randint(0,len(self.maskkey))]                
 
         img = cv2.imread(idA, cv2.IMREAD_COLOR)
         #img = self.do_augmentation(img) #should be crop_to=-1
@@ -167,7 +167,7 @@ class place2_test(datasets_base):
         idM = self.maskkey[i]
 
 
-        #idM = self.maskkey[np.random.randint(0,len(self.maskkey))]                  #[:len(self.trainAkey)]會造成讀取mask路徑錯誤
+        #idM = self.maskkey[np.random.randint(0,len(self.maskkey))]                
 
         print(idA)
 
@@ -180,7 +180,7 @@ class place2_test(datasets_base):
         print(idM)
 
 
-        mask = cv2.imread(idM, cv2.IMREAD_GRAYSCALE)                      #mask = np.array(Image.open(idM)).astype("f")  為cv2.imread替代方案
+        mask = cv2.imread(idM, cv2.IMREAD_GRAYSCALE)                     
 
         return img, mask
 
