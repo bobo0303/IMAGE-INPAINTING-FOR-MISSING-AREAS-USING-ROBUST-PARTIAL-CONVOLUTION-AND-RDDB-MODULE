@@ -21,7 +21,7 @@ def batch_postprocess_masks(img, batch_w, batch_h):
     return
 
 
-def batch_postprocess_images1(img, batch_w, batch_h):   #batch_w代表有幾張圖
+def batch_postprocess_images1(img, batch_w, batch_h):  
     ch, w, h = img.shape
     img = img.reshape((ch, w, h))
     img = img.transpose(1, 2, 0)
