@@ -139,7 +139,7 @@ def main():
         })
 
     model_save_interval = (10000, 'iteration')
-    trainer = training.Trainer(updater, (1000, 'epoch'), out=args.out)#訓練次數
+    trainer = training.Trainer(updater, (1000, 'epoch'), out=args.out)
     #trainer = training.Trainer(updater, (73000, 'iteration'), out=args.out)
     #trainer.extend(extensions.snapshot_object(
     #    gen_g, 'gen_g{.updater.iteration}.npz'), trigger=model_save_interval)
